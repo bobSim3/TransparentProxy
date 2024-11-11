@@ -1,3 +1,5 @@
 {
-  "implementationDeployment#Implementation_v1": "0xA78a909BE92bBF3f454Be2b3136d9320D3f87443"
+  "implementationDeployment#Implementation_v1": "0x9A690Ad03eb592f9A8D825B68d59E713b97C4258",
+  "implementationDeployment#TransparentUpgradeableProxy": "0x8c6a6b3C500b6eC3B3Cd351437459700214b61E6",
+  "implementationDeployment#ProxyAdmin": "0x3538e6922cDCf9732a14f84078D47c859045Ab2f"
 }
